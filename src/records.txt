@@ -1,0 +1,20 @@
+A   exemplu.com.        192.0.2.1
+A   www.exemplu.com.    192.0.2.1
+A   home.               192.168.0.1
+A   myPhone.home.       192.168.0.142
+A   maricica.           148.184.0.0
+A	test.com.	        124.32.65.32
+A	google.com.	        1.2.3.10
+A   mail.exemplu.com.   192.0.2.2
+A   sub.exemplu.com.    192.0.2.3
+
+CNAME   blog.exemplu.com.       www.exemplu.com
+CNAME   www.sub.exemplu.com.    sub.exemplu.com
+
+MX  exemplu.com.    mail.exemplu.com 10
+
+PTR 113.0.168.192.in-addr.arpa. PingBing
+PTR 1.0.0.127.in-addr.arpa.     PingBing
+PTR 41.0.168.192.in-addr.arpa.  PingBing
+PTR  86.121.52.67.in-addr.arpa. PingBing
+PTR  67.52.121.86.in-addr.arpa. PingBing

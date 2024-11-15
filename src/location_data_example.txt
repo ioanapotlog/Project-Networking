@@ -1,0 +1,22 @@
+City: Budapest  Region: Budapest  Country: HU
+City: Mountain View  Region: California  Country: US
+
+City: Budapest  Region: Budapest  Country: HU
+City: Budapest  Region: Budapest  Country: HU
+City: Budapest  Region: Budapest  Country: HU
+City: Mountain View  Region: California  Country: US
+
+City: Budapest  Region: Budapest  Country: HU
+City: Budapest  Region: Budapest  Country: HU
+City: Budapest  Region: Budapest  Country: HU
+City: Mountain View  Region: California  Country: US
+
+City: Budapest  Region: Budapest  Country: HU
+City: Bratislava  Region: Bratislava Region  Country: SK
+City: Vienna  Region: Vienna  Country: AT
+City: Vienna  Region: Vienna  Country: AT
+City: Vienna  Region: Vienna  Country: AT
+City: Frankfurt am Main  Region: Hesse  Country: DE
+City: Milan  Region: Lombardy  Country: IT
+City: Milan  Region: Lombardy  Country: IT
+City: Milan  Region: Lombardy  Country: IT
